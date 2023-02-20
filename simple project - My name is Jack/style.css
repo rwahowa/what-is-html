@@ -1,0 +1,140 @@
+body{
+	font-size: 16px;
+	width: 100%;
+	color:#222;
+	position: relative;
+	margin: 0;
+
+}
+
+header {
+    background: url('img/1-header-bg.jpg') no-repeat 0;
+}
+.headerNav{
+	clear:both;
+	margin-bottom: 0rem;
+	padding-top: 2rem;
+}
+.logo{
+	float: left;
+	margin-left: 4rem
+}
+
+nav .navigation{
+ float: right;
+ padding-right: 4rem;
+}
+
+nav .navigation a {
+	color: #fff;
+	font-size: 1.5rem;
+	text-decoration: none;
+	padding: 0 1rem;
+}
+
+nav .navigation a:hover {
+	
+	background-color: #777; 
+}
+
+.intro{
+	padding: 12rem 4rem;
+	color: #fff;
+	padding-bottom: 22rem;
+
+}
+.intro>h1{
+ font-size: 3rem;
+}
+
+a.homeButton{
+	color: #fff;
+	padding: .5rem 3rem;
+	border: 2px solid #fff;
+	text-decoration: none;
+	font-size: 2rem;
+
+}
+a.homeButton:hover{
+	color: #222;
+	background-color: #fff;
+
+}
+
+.main{
+	padding: 3rem 4rem;
+}
+
+.contentLeft{
+	width: 50%;
+	float: left;
+}
+
+.contentRight{
+	width: 50%;
+	float: right;
+	/*padding: 0 0  3rem 4rem;*/
+}
+
+.main section, .main section article {
+	clear: both;
+	margin-bottom: 3rem;
+}
+
+
+.main section h1{font-size: 4rem;}
+
+.contentLeft img,.contentRight img{
+	max-width: 90%;
+	padding: 1rem 0;
+}
+
+.contentRight h2{
+	font-size: 3rem;
+}
+.contentRight p{
+	font-size: 1.5rem;
+}
+
+.clear{
+	clear: both;
+	margin-top: 4rem;
+	border-top: 5px solid #777;
+}
+
+.friends{
+	max-width: 33%;
+	display: inline-block;
+}
+
+.friends img{
+	width: 99%
+}
+
+.friends p{
+	font-size: 1.5rem;
+}
+
+footer{
+ width: 100%;
+ background-color: #777;
+ padding: 2rem 0;
+}
+
+.footerNavigation{
+	padding: 0 4rem;
+}
+
+.footerNavigation a{
+	text-decoration: none;
+	font-size: 1.5rem;
+	color:#fff;
+	padding-right: 2rem;
+}
+
+.copyright{
+	font-size: 1.5rem;	
+	padding: 2rem 4rem;
+}
+
+
