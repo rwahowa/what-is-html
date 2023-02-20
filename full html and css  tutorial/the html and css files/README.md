@@ -26,8 +26,7 @@ style.css
 
 Get ready with this. We'll use it in the next CSS course. Right after you finish this HTML course. join it.
 
-################
-Incase of questions, always feel very free to talk to me:
+## Incase of questions, always feel very free to talk to me using the links below
 
 [FB Group :](https://web.facebook.com/groups/bizanosa/)
 
