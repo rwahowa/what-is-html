@@ -1,0 +1,55 @@
+body{
+    /*background-image: url(image.png);*/
+    background-color: #3f4852;
+    width: 90% ;
+    color: #fff;
+    font-size: 16px;
+}
+
+#page {
+    /*font-size: 1.6em;*/
+    font-size: inherit;
+}
+
+h1{
+    font-size: 18px;
+    margin-left: 2rem;
+}
+p{
+    font-size: 14px;
+    margin-left: 2rem;
+}
+
+.nav{
+   background-color: rgba(0,0,0,.3);
+   color: white; 
+}
+
+.nav a {
+    color: white; 
+}
+.nav li{
+    font-weight: bold; ; 
+}
+
+a {color:rgb(255, 255, 255);}
+
+.secondNav {
+    background-color: rgba(0,114,224,.8);
+
+    padding: 1rem;
+    margin-left: 1em;
+}
+
+
+.secondNav li{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.secondNav > li{
+    font-size: 4rem;
+   
+}
+
+img{width: 80%;}
